@@ -24,3 +24,6 @@ footer {
 h1 {
   border-bottom: 1px DarkSalmon;
 }
+h1 {
+  text-align: center; 
+}
