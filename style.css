@@ -1,5 +1,5 @@
 body {
-  background-color: MistyRose;
+  background-color: NavajoWhite;
   font-family:Arial;
   line-height: 1;
   margin: 50px;
@@ -10,8 +10,8 @@ p {
   margin-right: 30px;
   margin-left: 0;
 }
-h1, h2 {
-  margin-bottom: 20px;
+h1 {
+  margin-bottom: 30px;
 }
 p {
   margin: 15px 0;
@@ -24,6 +24,11 @@ footer {
 h1 {
   border-bottom: 1px DarkSalmon;
 }
-h1 {
-  text-align: center; 
+h1, h2 {
+  text-align: center;
+}
+footer {
+  font-family:Georgia;
+  color: DarkRed;
+  text-align: center;
 }
